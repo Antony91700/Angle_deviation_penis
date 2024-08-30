@@ -1,4 +1,3 @@
-Résumé du script
 Ce script permet de calculer l'angle de déviation, c'est à dire l'angle de courbure d'un pénis à partir d'une faite capturée par un smartphone.
 Cette photo doit subir une segmentation sémantique avec SAM de Meta
 Le script interface.py permet de sélectionner la photo segmentée et de choisir certains parmètres tels que l'orientation les points de tangences sur l'axe médian (squelette) 
