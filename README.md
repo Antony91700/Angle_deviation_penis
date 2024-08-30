@@ -1,5 +1,4 @@
-Résumé global
-Pour résumer l'ensemble des scripts fournis, voici une description structurée des étapes nécessaires pour calculer l'angle de déviation d'un pénis à partir d'une simple photo prise par un smartphone :
+Voici une description structurée des étapes nécessaires pour calculer l'angle de déviation d'un pénis à partir d'une simple photo prise par un smartphone :
 1. Interface utilisateur avec Tkinter (Interface.py)
 •	But : Fournir une interface graphique pour sélectionner une image, choisir la direction du pénis et lancer le traitement.
 •	Fonctionnalités :
